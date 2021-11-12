@@ -1,2 +1,18 @@
-# PlutoOS
-Pluto Operation System ：冥王星操作系统
+## PlutoOS Pluto Operation System
+
+- 总有一个梦想，自己写一个可以使用的操作系统，可以是实时操作系统：RTOS - Real Time Operating System，或者可以配置，因为实时系统的开发，对用户使用来讲，依旧需要较深入的技术与经验。像Linux、Windwos、Android等，都不属于RTOS，但是，它们都属于OS - Operation System，也就是【操作系统】
+- 操作系统如今内核满天下，但是，实际使用的，大家都在用的，也就那么几个，或几十个。
+
+## 开发目的
+
+- 开源、免费的操作系统，类似于Linux，但通过可以配置的Kernel，可以用于小到单片机，大到X86，这方面，类似于鸿蒙或Android，操作系统，不只是内核，也不是空壳。
+- 用于评估各种算法、中间件的开发
+- 用于支持完善的网络，LWIP，BSD TCP/IP
+- 用于支持完善的电源管理、低功耗管理
+- 用于支持Java、JS引擎，支持GUI
+
+## 愿景
+- 开发中认识更多的同行，一起进步
+- 国产，做到行业领先、国际领先
+- 路在脚下
+
